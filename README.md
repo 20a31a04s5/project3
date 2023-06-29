@@ -6,7 +6,7 @@ This is a web based application developed for health related puppy care based we
 
 
 *Project Link* - https://mango-stone-05e6db700.3.azurestaticapps.net
-*project demo video link* -
+*project demo video link* -https://youtu.be/6hTMzsdyhko
 
 
 ## Features and Functionalities 😃
