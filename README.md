@@ -1,6 +1,6 @@
-## Dog care
+## Puppy care
 
-This is a web based application developed for health related Dog care based website in india
+This is a web based application developed for health related puppy care based website in india
 
 ### This web based Dog Care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
